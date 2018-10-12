@@ -1,0 +1,37 @@
+
+2) Contiene un div con el id c1 e imprime el div con sus atributos
+
+3) Una caja amarrila en el extremo izquierdo con la oración "Hola Mundo"
+
+7)  Muestra: Una caja negra en el extremo y una caja de texto en su interior
+
+innerHTML
+Establece u obtiene la syntax HTML que describe los descendientes del elemento
+
+innerText
+Establece u obtiene el text entre las tags de inicio y fin del object
+
+SEGUNDA PARTE 
+
+
+1) Una colección donde cada div tiene la clase c2
+
+2) Todos los divs con la clase c2 con un color turquesa
+
+3) Todos los divs con la clase c2 con un color turquesa y con una caja de texto en su interior
+
+innerHTML
+Establece u obtiene la syntax HTML que describe los descendientes del elemento
+
+innerText
+Establece u obtiene el text entre las tags de inicio y fin del object
+
+
+EVENTOS
+
+
+4) Toma el valor que se le da a la caja de texto y lo imprime en el cuadro celeste
+
+
+Con value se obtiene el valor 
+Con innerText modifica el valor dentro de la etiqueta 
